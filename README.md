@@ -1,12 +1,12 @@
-#Code 102 Learning Journal
-##Developing Feelings
-###A repository of the things I've learned, the things I've failed, and the things I want to learn.
+# Code 102 Learning Journal
+## Developing Feelings
+### A repository of the things I've learned, the things I've failed, and the things I want to learn.
 
-#Growth Mindset
+# Growth Mindset
 **Growth Mindset** is the psychological principle that ones abilities and intelligence are not *fixed*, but can be *grown* and *developed*.
 
 Like J.K. Rowling has said:
->Failure is so important. We Speak about success all the time. But it is the ability to resist or use failure that often leads to greater success.
+> Failure is so important. We Speak about success all the time. But it is the ability to resist or use failure that often leads to greater success.
 
 
 
