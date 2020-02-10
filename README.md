@@ -4,7 +4,7 @@
 
 Table of Contents
 
-- [learning journal 1b]()
+- [learning journal 1b](lab1b.md)
 
 You can use the [editor on GitHub](https://github.com/tektechnologies/JournalLearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
