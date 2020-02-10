@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[My Github page] (https://mcbarnhart.github.io/learningjournal/)
+[My Github page](https://mcbarnhart.github.io/learningjournal/)
 
 Table of Contents
 
