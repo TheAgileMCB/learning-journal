@@ -1,3 +1,12 @@
+- hi
+@ hi
+= hi
++ hi
+> hi
+* hi
+: hi
+
+
 # Code 102 Learning Journal
 ## Developing Feelings
 ### A repository of the things I've learned, the things I've failed, and the things I want to learn.
