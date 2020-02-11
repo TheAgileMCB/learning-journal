@@ -13,7 +13,7 @@ Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentic
 - It's going to be hard--that's a given. Keep going. Stay focused.
 - Seek out and learn from criticism.
 - Dont' let failure stop you.
-- Like [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) has said:
+    - Like [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) has said:
 > Failure is so important. We Speak about success all the time. But it is the ability to resist or use failure that often leads to greater success.
 
 
