@@ -2,7 +2,7 @@
 ## Developing Feelings
 ### A repository of the things I've learned, the things I've failed, and the things I want to learn.
 
-![Me](/images/resume-img.jpg)
+![Matthew Barnhart](/images/resume-img.jpg)
 
 Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentice.I'm learning new skills to contriubte to betterment of life for those associated with me. I hope to use these abilities to grow and market community organizations is services to the arts and community improvement.
 
@@ -18,7 +18,9 @@ Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentic
 
 
 
-# Additional Information
+
+
+# Additional Information Regarding Markdown
 
 ## Welcome to GitHub Pages
 
