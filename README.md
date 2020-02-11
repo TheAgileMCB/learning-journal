@@ -2,7 +2,7 @@
 ## Developing Feelings
 ### A repository of the things I've learned, the things I've failed, and the things I want to learn.
 
-Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentice.I'm learning new skills to contriubte to betterment of life for those associated with me. I hope to use these abilities to grow and market community organizations is services to the arts and community improvement.
+![Me](/images/resume-img.jpg) Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentice.I'm learning new skills to contriubte to betterment of life for those associated with me. I hope to use these abilities to grow and market community organizations is services to the arts and community improvement.
 
 ## Growth Mindset
 **Growth Mindset** is the psychological principle that ones abilities and intelligence are not *fixed*, but can be *grown* and *developed*.
