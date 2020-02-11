@@ -4,19 +4,14 @@
 
 ![Matthew Barnhart](/images/resume-img.jpg)
 
-Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentice.I'm learning new skills to contriubte to betterment of life for those associated with me. I hope to use these abilities to grow and market community organizations is services to the arts and community improvement.
+Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentice.I'm learning new skills to contriubte to the betterment of life for those close to me that will build to ripple effect blanketing the whole world. I hope to use these abilities to grow and market community organizations is service to the arts, ecological and economic sustainability, and well-being and care for all mankind.
 
-## Growth Mindset
-**Growth Mindset** is the psychological principle that ones abilities and intelligence are not *fixed*, but can be *grown* and *developed*.
-
-### Things to Keep in Mind
-- It's going to be hard--that's a given. Keep going. Stay focused.
-- Seek out and learn from criticism.
-- Dont' let failure stop you.
-    - Like [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) has said:
-        > Failure is so important. We Speak about success all the time. But it is the ability to resist or use failure that often leads to greater success.
-
-
+### Table of Contents
+- [x] Entry 10022020
+- [ ] Entry 11022020
+- [ ] Entry 12022020
+- [ ] Entry 13022020
+- [ ] Entry 14022020
 
 
 
