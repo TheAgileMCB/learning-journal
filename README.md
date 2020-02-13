@@ -11,8 +11,14 @@ Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentic
 [My Github page](https://mcbarnhart.github.io/learningjournal/)
 
 ### Table of Contents
-- [x] [Entry 10022020](lj10022020.md)
-- [ ] [Entry 11022020]
-- [ ] [Entry 12022020]
-- [ ] [Entry 13022020]
-- [ ] [Entry 14022020]
+- [x] [Entry 10022020AM](lj10022020.md)
+- [ ] [Entry 10022020PM]
+- [ ] [Entry 11022020AM]
+- [ ] [Entry 11022020PM]
+- [ ] [Entry 12022020AM]
+- [ ] [Entry 12022020PM]
+- [ ] [Entry 13022020AM]
+- [x] [Entry 13022020PM1](lj13022020PM1.md)
+- [ ] [Entry 13022020PM2]
+- [ ] [Entry 14022020AM]
+- [ ] [Entry 14022020PM]
