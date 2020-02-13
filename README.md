@@ -18,7 +18,7 @@ Hi. I'm Matthew Barnhart. I'm Iowa's first Digital Marketing/Developer Apprentic
 - [ ] [Entry 12022020AM]
 - [ ] [Entry 12022020PM]
 - [ ] [Entry 13022020AM]
-- [x] [Entry 13022020PM1](lj13022020PM1.md)
+- [x] [Entry 13022020PM1](lj12022020PM1.md)
 - [ ] [Entry 13022020PM2]
 - [ ] [Entry 14022020AM]
 - [ ] [Entry 14022020PM]
